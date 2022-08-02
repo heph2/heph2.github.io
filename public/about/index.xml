@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Agency</title>
-    <link>https://pinkystudios.com/about/</link>
-    <description>Recent content in About me on Agency</description>
+    <title>About me on Pinky Studios</title>
+    <link>https://pinky.github.io/about/</link>
+    <description>Recent content in About me on Pinky Studios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://pinkystudios.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://pinky.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

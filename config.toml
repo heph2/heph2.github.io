@@ -1,5 +1,5 @@
-baseurl = "https://pinkystudios.com"
-title = "Agency"
+baseurl = "https://pinky.github.io"
+title = "Pinky Studios"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
