@@ -20,6 +20,12 @@
           ${pkgs.hugo}/bin/hugo server -D
         '');
       };
+      apps.rsync = {
+        type = "app";
+        program = toString (pkgs.writers.writeBash "rsync" ''
+          ${pkgs.rsync}/bin rsync -avz --delete public/ sea:/var/www/pinkystudios.com
+        '');        
+      };
       packages."${name}" = pkgs.stdenv.mkDerivation {
         pname = name;
         version = "1.0";
