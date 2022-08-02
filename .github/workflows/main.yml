@@ -23,13 +23,14 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
         with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: heph2/heph2.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+            #          external_repository: heph2/heph2.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: heph2
-          user_email: catch@mrkeebs.eu
-          publish_branch: master
+          #user_name: heph2
+          #user_email: catch@mrkeebs.eu
+          publish_branch: gh-pages
         #   cname: example.com
 
