@@ -29,6 +29,7 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: heph2
+          user_email: catch@mrkeebs.eu
           publish_branch: master
         #   cname: example.com
 
