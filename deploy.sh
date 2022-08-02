@@ -1,5 +1,5 @@
 #!/bin/sh
-SERVER=sea
+SERVER=kelpie
 DIR=/var/www/pinkystudios.com/
 
 hugo && rsync -avz --delete public/ ${SERVER}:${DIR}
