@@ -8,10 +8,29 @@
   outputs = { self, nixpkgs, flake-utils }:
     flake-utils.lib.eachDefaultSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-    in {
+      name = "pinky";
+    in rec {
       devShell = pkgs.mkShell {
         nativeBuildInputs = with pkgs; [ bashInteractive hugo rsync ];
         buildInputs = [ ];
       };
+      apps.server = {
+        type = "app";
+        program = toString (pkgs.writers.writeBash "testing" ''
+          ${pkgs.hugo}/bin/hugo server -D
+        '');
+      };
+      packages."${name}" = pkgs.stdenv.mkDerivation {
+        pname = name;
+        version = "1.0";
+        src = ./.;
+        buildInputs = [ pkgs.hugo pkgs.git ];
+        buildPhase = ''
+          hugo --minify
+        '';
+        installPhase = "cp -vr public $out";
+      };
+      defaultPackage = packages."${name}";
+      defaultApp = apps.server;
     });
 }
