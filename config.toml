@@ -14,11 +14,8 @@ googleAnalytics = ""
   description = "Film Agency"
   copyright = "&copy;2022 PinkyStudios"
   sidebarAbout = [
-    "Pinky Studios
-
-E' l'unione di vari filmmaker professionisti che hanno deciso di unirsi per
-poter dare dei servizi non solo ai privati ma anche alle aziende."
-
+    "Pinky Studios",
+    "E' l'unione di vari filmmaker professionisti che hanno deciso di unirsi per poter dare dei servizi non solo ai privati ma anche alle aziende.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
