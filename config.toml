@@ -14,8 +14,11 @@ googleAnalytics = ""
   description = "Film Agency"
   copyright = "&copy;2022 PinkyStudios"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Pinky Studios
+
+E' l'unione di vari filmmaker professionisti che hanno deciso di unirsi per
+poter dare dei servizi non solo ai privati ma anche alle aziende."
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -55,14 +58,18 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  vimeo = "https://www.vimeo.com/andreabauce"
+  instagram = "https://www.instagram.com/andrea_bauce"
+  imdb = "https://www.imdb.com/name/nm5472997/?ref_=fn_al_nm_1"
+  linkedin = "https://www.linkedin.com/in/andreabauce/"
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # email         = "email@example.com"
+  # twitter       = "full profile url in twitter"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  # github        = "full profile url in github"
+  # gitlab        = "full profile url in gitlab"
+  # youtube       = "full profile url in youtube"
+  # whatsapp      = "wa.me service link"

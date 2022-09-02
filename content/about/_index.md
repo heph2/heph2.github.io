@@ -3,19 +3,52 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Pinky Studios
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+E' l'unione di vari filmmaker professionisti che hanno deciso di unirsi per
+poter dare dei servizi non solo ai privati ma anche alle aziende.
 
-![This is me][1]
+Andrea Bauce, regista milanese.
+Da diversi anni, si occupa di realizzare prodotti video nel ruolo di
+regista sia a livello indipendente che in produzioni più grandi.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Ha iniziato il suo percorso professionale in Inghilterra.
+Rientrato in Italia, ha scritto e diretto diversi cortometraggi, fashion
+film, e format tv in onda su Sky.
 
-#### Education
+Dal 2012 al 2015 ha lavorato nel mondo pubblicitario, formandosi in più di
+100 set tra spot pubblicitari e film, con registi del calibro di Chan Wook
+Park (nel cortometraggio per ZEGNA) e Giuseppe Tornatore (nello spot per
+SAN CARLO 1936).
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Nel 2016 ha vinto il primo premio MARSAL (Video Content Creation) per la
+regia e scrittura dello spot IWC Schaffhausen con Pierfrancesco Favino.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Sempre nel 2016 insieme a Marco Montemagno, ha lanciato un format di
+video-documentari intitolato "INSIDE MONTY" e nel 2018 ha seguito e
+coordinato la produzione video del format "4 chiacchiere con Monty" (con
+ospiti importanti come: Jovanotti, Fedez, Rovazzi, J-AX, Michelle Hunziker,
+Paolo Kessisoglu, Martina Colombari, e tanti altri..).
+
+A fine 2018 ha fatto uscire il trailer di un suo documentario girato a Los
+Angeles, con protagonisti noti personaggi tra cui la modella Nina Seničar,
+Jason Wiles, Emanuela Postacchini, e Joseph Russo (attore che ha lavorato
+all'ultimo film di Martin Scorsese "The Irishman").
+
+Dal 2019 ha sperimentato girando cortometraggi in pellicola Super 8.
+Sono stato scelto per dirigere le Instagram Stories della campagna FIAT -
+ABARTH 70° Anniversario.
+
+In seguito nel 2020 per la campagna LG Signature, creando contenuti video
+con il 7 volte campione di Formula 1, Lewis Hamilton.
+E per Stella McCartney per la campagna "Animal are Equals".
+
+L'anno scorso, pur non avendo mai girato in bici, ha deciso di attraversare
+tutta l'Italia in solitaria.
+Milano - Palermo 1950km.
+
+Un viaggio in bici, all'insegna della sostenibilità, con una missione
+semplice: adottare una nuova prospettiva, per capire come il nostro paese è
+cambiato con la pandemia, ma soprattutto come siamo cambiati noi.
 
 [1]: /img/about.jpg
