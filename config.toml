@@ -68,11 +68,6 @@ unsafe = true
     disabled = false
     simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
   [privacy.instagram]
     disabled = false
     simple = true
