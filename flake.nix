@@ -8,7 +8,7 @@
   outputs = { self, nixpkgs, flake-utils }:
     flake-utils.lib.eachDefaultSystem (system: let
       pkgs = nixpkgs.legacyPackages.${system};
-      name = "pinky";
+      name = "portfolio";
     in rec {
       devShell = pkgs.mkShell {
         nativeBuildInputs = with pkgs; [ bashInteractive hugo rsync ];

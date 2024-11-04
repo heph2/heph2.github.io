@@ -1,8 +1,8 @@
-baseURL = "https://heph2.github.io"
+baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
-title = "heph's portfolio"
-author = "Marco Bauce"
-copyright = "© [Marco Bauce](https://www.mbauce.com)."
+title = "risotto demo"
+author = "Joe Roe"
+copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -22,19 +22,29 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "heph's risotto"
-description = "Writing about stuff"
+title = "risotto"
+description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
 logo = "images/rice.svg"
+
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/heph2/"
+url = "https://github.com/joeroe/risotto"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:social@mbauce.com"
+url = "mailto:example@example.com"
+
+[[params.socialLinks]]
+icon = "ai ai-orcid"
+title = "ORCID"
+url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
 
@@ -82,3 +92,9 @@ unsafe = true
     privacyEnhanced = true
 
 [services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
