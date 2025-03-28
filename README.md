@@ -1,3 +1,2 @@
-# Pinky Studios Site
-
-Pinky studios website deployed with Hugo + GH Actions + GH Pages
+# Blog
+My own blog deployed with Hugo + GH Actions + GH Pages
